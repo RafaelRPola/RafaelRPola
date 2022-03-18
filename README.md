@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rafael Rech Pola</h1>
+<h1 align="center">Hello, I'm Rafael Rech Pola</h1>
 <h3 align="center">A student and developer from Brazil</h3>
 
 - 👨‍💻 I’m currently working on **Grupo Serra Online**
