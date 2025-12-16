@@ -119,13 +119,7 @@ Olá, me chamo Rafael Rech Pola, tenho 23 anos e sou natural do Rio Grande do Su
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=RafaelRPola&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelRPola&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <img 
       align="left" 
