@@ -1,12 +1,10 @@
-# 👨‍💻 Rafael Rech Pola
+# Rafael Rech Pola - Desenvolvedor Web
 
-**`Desenvolvedora FullStack`**
-
-Olá, me chamo Rafael Rech Pola, tenho 23 anos e sou natural do Rio Grande do Sul. Sou formado em Engenharia de Computação pela FSG (Faculdade da Serra Gaúcha). Atualmente estou cursando MBA em Gestão e Governança de TI e atuo como desenvolvedor FullStack.
+Olá, me chamo Rafael Rech Pola, sou natural do Rio Grande do Sul e formado em Engenharia de Computação pela FSG (Faculdade da Serra Gaúcha). Atualmente estou cursando MBA em Gestão e Governança de TI e atuo como Desenvolvedor Web no Grupo Serra Online, mais especificamente na stack de Front-End.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## ➥ Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -129,3 +127,14 @@ Olá, me chamo Rafael Rech Pola, tenho 23 anos e sou natural do Rio Grande do Su
   />
 
 </p>
+
+## ➥ Contato
+
+Quer conversar ou contratar meus serviços?  
+📧 E-mail: rafaelrpola@gmail.com
+🔗 LinkedIn: [Acesso](https://www.linkedin.com/in/rafael-rech-pola-b71364209/)
+
+---
+
+**Obrigado pela visita!**  
+Rafael Rech Pola © 2025
