@@ -117,15 +117,7 @@ Olá, me chamo Rafael Rech Pola, sou natural do Rio Grande do Sul e formado em E
 ## ➥ Estatísticas
 
 <p>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelRPola&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRPola&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelRPola)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
