@@ -114,16 +114,9 @@ Olá, me chamo Rafael Rech Pola, sou natural do Rio Grande do Sul e formado em E
 <br/>
 <br/>
 
-## ➥ Estatísticas
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelRPola&show_icons=true" alt="GitHub Stats" />
-</p>
-
-
 ## ➥ Contato
 
-Quer conversar ou contratar meus serviços?  
+Quer conversar comigo?  
 📧 E-mail: rafaelrpola@gmail.com
 🔗 LinkedIn: [Acesso](https://www.linkedin.com/in/rafael-rech-pola-b71364209/)
 
