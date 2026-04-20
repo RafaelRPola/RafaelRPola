@@ -1,6 +1,6 @@
 # Rafael Rech Pola - Desenvolvedor Web
 
-Olá, me chamo Rafael Rech Pola, sou natural do Rio Grande do Sul e formado em Engenharia de Computação pela FSG (Faculdade da Serra Gaúcha). Atualmente estou cursando MBA em Gestão e Governança de TI e atuo como Desenvolvedor Web no Grupo Serra Online, mais especificamente na stack de Front-End.
+Olá, me chamo Rafael Rech Pola, sou natural do Rio Grande do Sul e formado em Engenharia de Computação pela FSG (Faculdade da Serra Gaúcha). Atualmente estou cursando MBA em Engenharia de Software em IA Aplicada pela UNIPDS e atuo como Desenvolvedor Web no Grupo Serra Online, mais especificamente na stack de Front-End.
 
 ---
 
